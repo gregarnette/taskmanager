@@ -1,2 +1,2 @@
-app.mame=TaskManager
-db.url=db.url=jdbc:mysql://localhost:3306/mydatabase
+app.mame:TaskManager
+db.url:jdbc:mysql://localhost:3306/mydatabase
